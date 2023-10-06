@@ -7,7 +7,7 @@ require (
 	github.com/khulnasoft-lab/utils v0.0.46
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/exp v0.0.0-20230905200255-921286631fa9
+	golang.org/x/exp 7918f672742d
 	gopkg.in/yaml.v3 v3.0.1
 )
 
